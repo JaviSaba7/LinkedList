@@ -67,3 +67,15 @@ public:
 	}
 };
 #endif //__LinkedList_H__
+
+//NEXT DAY: 
+/*
+-front() un get del start (tornen nodes constants)
+-back() un get de l'ultim
+-PushFront() 
+-popback(tornen el qe sa eliminat)
+-popfront (que torni el valor que s'ha eliminat)
+-insert afegeix un node en alguna posicio que tu vulguis
+-remove agafa un node i el treu (no retornem la data que eliminem)
+
+*/
